@@ -1,7 +1,7 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZrooPro/SaveDat1/main/uploads/20261013_164613_441_tttf07vv.jpg" width="300"/>
+  <img src="https://c.termai.cc/i175/SszXIiN.jpg" width="300"/>
 </p><p align="center">
   <b>Kayz Bot WhatsApp</b><br>
   Wrapper Baileys berkinerja tinggi untuk otomatisasi bot WhatsApp kalian
