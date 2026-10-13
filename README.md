@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://rahmad-elaina.my.id/file/c2807a3020.jpg" width="300"/>
 </p><p align="center">
-  <b>Pustaka Bot WhatsApp</b><br>
+  <b>Kayz Bot WhatsApp</b><br>
   Wrapper Baileys berkinerja tinggi untuk otomatisasi bot WhatsApp kalian
 </p><p align="center">
   <img src="https://img.shields.io/badge/Node.js-v20+-green?style=flat-square">
@@ -36,6 +36,6 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 
 # Installation
 
-npm install RahmadPasker/baileys
+npm install ZrooPro/baileys
 
 ---
